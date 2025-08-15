@@ -1,0 +1,30 @@
+{
+    "summary_scores": {
+        "Footwork": 7,
+        "Head Position": 6.9,
+        "Swing Control": 10,
+        "Balance": 0
+    },
+    "detailed_feedback": [
+        {
+            "category": "Swing Control",
+            "score": 10,
+            "feedback": "Achieved a peak front elbow angle of 179 degrees. Aim for 120-150 degrees for a full extension."
+        },
+        {
+            "category": "Head Position",
+            "score": 6.9,
+            "feedback": "Your head was positioned correctly over your front knee for 68% of the shot. Try to keep your head leaning forward and steady over your knee to maintain balance and power."
+        },
+        {
+            "category": "Balance",
+            "score": 0,
+            "feedback": "Your average spine lean was 137 degrees. A slight forward lean (around 75-85 degrees) is ideal. Avoid falling away or being too upright; a stable base is key."
+        },
+        {
+            "category": "Footwork",
+            "score": 7,
+            "feedback": "Footwork analysis requires more specific metrics (like foot angle). As a general tip, ensure a stable base with your front foot pointing towards the cover region."
+        }
+    ]
+}

@@ -1,4 +1,4 @@
-## Quick Start: How to Run with Your Video
+## Quick Start: How to Run with Video
 
 **Example command:**
 

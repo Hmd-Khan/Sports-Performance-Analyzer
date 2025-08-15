@@ -1,0 +1,19 @@
+# Virtual environments
+.venv/
+.venv311/
+.venv312/
+venv/
+
+# Input/Output folders
+input/
+output/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE specific
+.idea/
+.vscode/
